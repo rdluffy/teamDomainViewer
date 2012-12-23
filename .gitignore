@@ -1,4 +1,9 @@
 *.class
+.idea/
+test-output/
+.gradle/
+out/
+target/
 
 # Package Files #
 *.jar

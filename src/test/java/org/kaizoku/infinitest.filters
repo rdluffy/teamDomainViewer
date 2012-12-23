@@ -1,0 +1,3 @@
+## TestNG Configuration
+# Tests with a group-annotation in groups are the only ones being executed (overridden by excluded-groups):
+groups=unitTest
